@@ -1,6 +1,6 @@
 # discord-music-bot-
 discord music bot 
 hello guys my github is good
-my gitthub is not ready         
+my gitthub is not ready im sorry guys        
 
 
