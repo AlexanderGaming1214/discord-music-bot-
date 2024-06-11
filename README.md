@@ -1,8 +1,8 @@
 # discord-music-bot-
 
-|install visual studio code  https://code.visualstudio.com|
-|install Node.js V20 https://nodejs.org/en/download/prebuilt-installer|
-|install ffmpeg https://www.ffmpeg.org|
+|install visual studio code  https://code.visualstudio.com |
+|install Node.js V20 https://nodejs.org/en/download/prebuilt-installer |
+|install ffmpeg https://www.ffmpeg.org |
 
        config.js programm
        
