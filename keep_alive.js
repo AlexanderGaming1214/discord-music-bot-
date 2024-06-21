@@ -1,7 +1,6 @@
 var http = require("http");
 
-http
-  .createServer(function (req, res) {
+http.createServer(function (req, res) {
     res.write("you bot is online");
     res.end();
   })
