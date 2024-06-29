@@ -1,9 +1,9 @@
 module.exports = {
     app: {
-        token: 'xxx',
+        token: 'give you bot token',
         playing: 'by the Community ❤️',
         global: true,
-        guild: 'xxx',
+        guild: 'give you bot clientID',
         extraMessages: false,
         loopMessage: false,
         lang: 'en',
@@ -27,9 +27,9 @@ module.exports = {
             commands: []
         },
         Translate_Timeout: 10000,
-        maxVol: 100,
+        maxVol: 200,
         spotifyBridge: true,
-        volume: 75,
+        volume: 100,
         leaveOnEmpty: true,
         leaveOnEmptyCooldown: 30000,
         leaveOnEnd: true,
