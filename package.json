@@ -1,9 +1,9 @@
 {
-    "name": "music-bot",
+    "name": "Discord-music-bot",
     "main": "main.js",
-    "author": "ZerioDev",
+    "author": "Alex",
     "version": "8.0.0",
-    "repository": "https://github.com/ZerioDev/Music-bot.git",
+    "repository": "https://github.com/AlexanderGaming1214/discord-music-bot-.git",
     "description": "A complete code to download for a cool Discord music bot.",
     "scripts": {
         "start": "node main.js"
