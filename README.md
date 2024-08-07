@@ -1,4 +1,6 @@
-# Discord music bot
+# discord music bot 
+
+`# Discord music bot
 
 module.exports = {
     app: {
@@ -33,3 +35,4 @@ module.exports = {
         }
     }
 };
+`
