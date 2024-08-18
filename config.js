@@ -11,13 +11,13 @@ module.exports = {
     },
 
     emojis:{
-        'back': '⏪',
-        'skip': '⏩',
-        'ResumePause': '⏯️',
-        'savetrack': '💾',
-        'volumeUp': '🔊',
-        'volumeDown': '🔉',
-        'loop': '🔁',
+        'back': '<:previous:1204987352636985344>',
+        'skip': '<:skip:1204987331879370762>',
+        'ResumePause': '<:resume:1204987258248110081:pause:1204987215617462344 >',
+        'savetrack': '<:drive:1163766399316021268>',
+        'volumeUp': '<:volup:1204987455795757087>',
+        'volumeDown': '<:voldown:1204987440515784735>',
+        'loop': '<:queue:1204987613610778624>',
     },
 
     opt: {
