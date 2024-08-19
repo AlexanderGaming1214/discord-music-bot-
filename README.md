@@ -1,39 +1,11 @@
 # Discord music bot
 
-------------------------------------------------------------------------------------------------------------------------
+1 install Node.js v20 https://nodejs.org/en/download/source-code
+2 install ffmpeg https://www.ffmpeg.org/download.html
+3 free hosting https://pylexnodes.net/
+4 `npm i @discordjs/opus` infos for @discordjs/opus https://www.npmjs.com/package/@discordjs/opus
 
+-----------------------------------------------------------------------------
+Support https://discord.gg/h3xvtExevy
+Youtube https://www.youtube.com/@Alexminecraft-ro2so pls sub
 
-module.exports = {
-    app: {
-        token: 'give you bot token',
-        playing: '/help',
-        global: true,
-        guild: 'give you bot clientID',
-        extraMessages: false,
-        loopMessage: false,
-        lang: 'en',
-        Translate_Timeout: 10000,
-        enableEmojis: false
-},
-    opt: {
-        DJ: {
-            enabled: false,
-            roleName: '',
-            commands: []
-        },
-        maxVol: 200,
-        spotifyBridge: true,
-        volume: 100,
-        leaveOnEmpty: true,
-        leaveOnEmptyCooldown: 60000,
-        leaveOnEnd: true,
-        leaveOnEndCooldown: 60000,
-        discordPlayer: {
-            ytdlOptions: {
-                quality: 'highestaudio',
-                highWaterMark: 1 << 25
-            }
-        }
-    }
-};
-`
